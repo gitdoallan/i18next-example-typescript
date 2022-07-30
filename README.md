@@ -1,5 +1,7 @@
 # i18next-example-typescript
 
+https://github.dev/Lemoncode/i18next-example-typescript
+
 El objetivo del repositorio es mostrar cómo comenzar a trabajar con i18next en React. En los próximos ejemplos vamos a instalar y configurar la librería para cubrir los siguientes escenarios:
 
 - Configurar una instancia de i18n
